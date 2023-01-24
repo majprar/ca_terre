@@ -2,5 +2,5 @@ list_alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
 a = ""
 for i in list_alphabet:
      a = a + i
-     if i == "z":
-         print("%s" % a)
+
+print(a)
